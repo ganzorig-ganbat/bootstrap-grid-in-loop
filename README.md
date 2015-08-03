@@ -4,7 +4,7 @@ Better way to display your content in bootstrap grid system with loop. You can u
 ### Installation
 Include php file somewhere in your code. Now you can use.
 ```php
-include('bootstrap_grid.php');
+include('your_copied_file_path/bootstrap_grid.php');
 ```
 
 ### Usage
