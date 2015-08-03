@@ -1,6 +1,6 @@
 <?php
 
-class dt_bootstrap_grid {
+class bootstrap_grid {
     // default sum col 12
     private $sum_col = 12;
     // default col 3
