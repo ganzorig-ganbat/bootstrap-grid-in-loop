@@ -1,1 +1,3 @@
-# bootstrap-grid-in-loop
+# Twitter Bootstrap Grid Layout in Loop
+Та энэ кодыг ашиглан twitter bootstrap-ийн grid системийг хялбархан байдлаар хэдэн ч баганатай html код гаргах боломжтой юм.
+Энэ нь үнэгүй бөгөөд танд санал хүсэлт байвал нээлттэй.
