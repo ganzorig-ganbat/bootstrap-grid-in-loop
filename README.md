@@ -1,6 +1,5 @@
 # Twitter Bootstrap Grid Layout in Loop
-Та энэ кодыг ашиглан twitter bootstrap-ийн grid системийг хялбархан байдлаар хэдэн ч баганатай html код гаргах боломжтой юм.
-Энэ нь үнэгүй бөгөөд танд санал хүсэлт байвал нээлттэй.
+Better way to display your content in bootstrap grid system with loop. You can use only one class and don't worry about how to split row and columns.
 
 ### Installation
 Include php file somewhere in your code. Now you can use.
