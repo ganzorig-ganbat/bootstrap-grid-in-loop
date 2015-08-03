@@ -61,10 +61,6 @@ class bootstrap_grid {
         return '</div>';
     }
 
-    public function is_row_open() {
-        return $this->row_open;
-    }
-
     public function open_col() {
         if ( $this->col_open )
             return;
