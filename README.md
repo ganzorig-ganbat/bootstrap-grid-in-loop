@@ -36,3 +36,42 @@ endwhile;
 echo $post_layout->close_all();
 echo '</div>';
 ```
+
+4.Output
+```html
+<div class="container">
+  <div class="row">
+    <div class="col-md-4">
+      Your content
+    </div>
+    <div class="col-md-4">
+      Your content
+    </div>
+    <div class="col-md-4">
+      Your content
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-4">
+      Your content
+    </div>
+    <div class="col-md-4">
+      Your content
+    </div>
+    <div class="col-md-4">
+      Your content
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-4">
+      Your content
+    </div>
+    <div class="col-md-4">
+      Your content
+    </div>
+    <div class="col-md-4">
+      Your content
+    </div>
+  </div>
+</div>
+```
